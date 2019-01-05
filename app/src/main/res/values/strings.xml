@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">增量更新DEMO</string>
+    <string name="diff">生成差分包</string>
+    <string name="patch">合并差分包</string>
+</resources>
